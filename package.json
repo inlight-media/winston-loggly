@@ -9,7 +9,7 @@
   },
   "keywords": ["logging", "sysadmin", "tools"],
   "dependencies": {
-    "loggly": "~1.1.0"
+    "loggly": "github:winstonjs/node-loggly#ce605ad0d480100a5dc366bfe4282633eaa43649"
   },
   "devDependencies": {
     "winston": "1.0.x",
